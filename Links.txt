@@ -1,0 +1,134 @@
+
+1. React website:         codegrepper
+=======================
+https://reactjs.org/docs/getting-started.html
+https://www.w3schools.com/react/react_es6_array_methods.asp
+https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#jsx
+
+2. React youtube video:
+=============================
+https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+3. React kendo-library:
+============================
+https://www.telerik.com/kendo-react-ui/components/grid/excel-export/
+npm install --save @progress/kendo-theme-default
+
+4. React connecting node.js & Mysql:
+=========================================
+https://medium.com/@prashantramnyc/a-simple-registration-and-login-backend-using-nodejs-and-mysql-967811509a64
+https://www.bezkoder.com/node-express-sequelize-postgresql/
+https://www.bezkoder.com/react-node-express-postgresql/#Project_Structure
+https://codingstatus.com/how-to-update-data-using-node-js-and-mysql/ (Update Data Using Node.js and react.js)
+
+4.1. postgresql query & connecting node.js & postgresql 
+========================================================
+https://blog.logrocket.com/getting-started-with-postgres-in-your-react-app/
+
+5. React unit testing-library:
+==================================
+https://testing-library.com/docs/queries/about/
+
+6. React icons:
+================
+https://react-icons.github.io/react-icons/
+https://melvingeorge.me/blog/show-or-hide-password-ability-reactjs (password, confirm password show & hide)
+
+6.1 Validations:
+================
+https://www.codegrepper.com/search.php?q=email%20regex
+
+7. React countdown-timer:
+==========================
+https://medium.com/bb-tutorials-and-thoughts/how-to-create-a-countdown-timer-in-react-app-e99916046292
+https://www.tutsmake.com/forgot-reset-password-in-node-js-express-mysql/ (reset password)
+
+8. postman-workspace:
+==========================
+https://web.postman.co/workspace/My-Workspace~4d7eed76-3a4e-4298-8567-491c68d67ccf/request/create?requestId=89e9ff2d-c81b-4892-8d99-d70945575436
+
+9. Bootstrap.com:
+======================
+https://getbootstrap.com/docs/5.1/components/navbar/
+https://bootsnipp.com/ (Reference content here)
+media query css
+
+10. Store Image in Mysql using Node.js:    http://localhost:3005/public/uploads/Quiz-background.jpg
+========================================
+https://medium.com/swlh/uploading-images-to-your-node-js-backend-978261eb0724
+https://codingstatus.com/how-to-store-image-in-mysql-database-using-node-js/
+https://www.tutsmake.com/upload-image-in-mysql-db-using-node-js-express-multer/
+https://codingstatus.com/how-to-display-image-from-mysql-database-in-node-js/
+https://pretagteam.com/question/how-to-display-image-from-http-request-to-external-api-with-nodejs  (store and get image)
+
+
+https://www.youtube.com/watch?v=b6Oe2puTdMQ (File Upload)
+
+https://www.thisdot.co/blog/taming-forms-with-react-hook-form
+
+https://www.ag-grid.com/react-data-grid/getting-started/  (AG Grid data)
+
+11) chart.js:
+=========================
+https://www.youtube.com/watch?v=A5KaLpqzRi4
+
+12) Github page
+======================================
+https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
+
+
+13) Send E-mail:
+======================================
+https://javascript.plainenglish.io/sending-email-in-react-application-with-nodemailer-afcef6906608
+https://dev.to/jlong4223/how-to-implement-email-functionality-with-node-js-react-js-nodemailer-and-oauth2-2h7m
+
+
+13) react chart npms:      
+==========================
+1) npm i recharts
+
+https://www.npmtrends.com/ag-charts-community-vs-chart.js-vs-recharts-vs-wijmo
+https://recharts.org/en-US/api/ScatterChart  https://github.com/recharts/recharts/issues/2571
+https://stackoverflow.com/questions/68515611/scatter-plot-in-recharts-how-to-use-4-quadrants
+
+2) npm i echarts-for-react 
+3) npm i ag-charts-community
+4) npm i bizcharts-ios15
+5) npm i victory-chart
+6) npm i zingchart-react
+7) npm i react-easy-scatter-plot
+8) npm i @toast-ui/react-chart
+9) npm i cl-react-graph
+10) npm i react-financial-charts
+11) npm i jqwidgets-framework
+12) npm i @nebula.js/cli
+
+1) npm i react-chartjs-2.customized
+2) npm i @hcorta/react-echarts
+3) npm i @ennabl/react-google-charts
+4) npm i jscharting-react
+5) npm i react-fast-charts
+6) npm i @visa/charts-react
+
+1. npm i highcharts    https://www.highcharts.com/demo/dynamic-click-to-add
+2. npm i react-chartjs-2
+
+
+@@@@@@@@@@@@@@@        Milan
+https://teams.live.com/meet/9539051915832
+
+https://www.npmjs.com/package/react-cookie
+https://stackblitz.com/github/remix-run/react-router/tree/main/examples/auth?file=src/App.tsx
+https://contactmentor.com/session-storage-react-js/
+https://www.robinwieruch.de/local-storage-react/#introduction-to-local-storage
+https://jwt.io/introduction
+https://reactrouterdotcom.fly.dev/docs/en/v6
+
+
+
+
+
+
+
+
+
